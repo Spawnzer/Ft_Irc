@@ -1,7 +1,7 @@
 # ft_irc
 
 ft_irc is a basic IRC server written in C++98, developed as a team project for the school 42 Quebec.
-It was developed in collaboration with [jgoad](https://github.com/jongoad) and [spawnzer](https://github.com/spawnzer)
+It was developed in collaboration with [jgoad](https://github.com/jongoad) and [oddtiming](https://github.com/oddtiming)
 
 ## Usage
 
